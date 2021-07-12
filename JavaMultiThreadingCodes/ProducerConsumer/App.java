@@ -1,4 +1,4 @@
-package E.ProducerConsumer;
+package ProducerConsumer;
 
 /**
  * Producer-Consumer pattern in Java using the {@link java.util.concurrent
