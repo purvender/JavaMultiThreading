@@ -1,4 +1,4 @@
-package K.CallableAndFuture;
+package CallableAndFuture;
 
 import java.util.concurrent.*;
 

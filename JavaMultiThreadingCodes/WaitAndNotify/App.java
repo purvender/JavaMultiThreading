@@ -1,4 +1,4 @@
-package H.WaitAndNotify;
+package WaitAndNotify;
 
 /**
  * {@link Object#wait()} and {@link Object#notify()} in Java; low-level

@@ -1,4 +1,4 @@
-package G.Deadlock;
+package Deadlock;
 
 /**
  * Source: http://www.herongyang.com/Java/Deadlock-What-Is-Deadlock.html

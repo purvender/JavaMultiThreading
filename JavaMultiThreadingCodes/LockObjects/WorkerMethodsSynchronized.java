@@ -1,4 +1,4 @@
-package D.LockObjects;
+package LockObjects;
 
 import java.util.ArrayList;
 import java.util.List;

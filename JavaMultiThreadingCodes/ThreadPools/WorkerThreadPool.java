@@ -1,4 +1,4 @@
-package J.ThreadPools;
+package ThreadPools;
 
 import java.util.ArrayList;
 import java.util.List;

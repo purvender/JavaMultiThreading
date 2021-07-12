@@ -1,4 +1,4 @@
-package A.StartingThreads;
+package StartingThreads;
 
 /**
  * Starting Threads using Runnable Interface

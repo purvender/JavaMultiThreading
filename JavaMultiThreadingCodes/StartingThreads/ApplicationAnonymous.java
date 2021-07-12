@@ -1,4 +1,4 @@
-package A.StartingThreads;
+package StartingThreads;
 
 /**
  * Starting threads using the Thread constructor with anonymous classes

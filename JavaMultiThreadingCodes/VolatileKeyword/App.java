@@ -1,4 +1,4 @@
-package B.VolatileKeyword;
+package VolatileKeyword;
 
 /**
  * Volatile Keyword, <em>“… the volatile modifier guarantees that any thread that	

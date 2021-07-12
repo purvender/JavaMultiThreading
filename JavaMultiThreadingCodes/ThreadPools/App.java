@@ -1,4 +1,4 @@
-package J.ThreadPools;
+package ThreadPools;
 
 /**
  * ThreadPool ("number of workers in a factory")

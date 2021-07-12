@@ -1,4 +1,4 @@
-package G.Deadlock;
+package Deadlock;
 
 /**
  * Codes with minor comments are from

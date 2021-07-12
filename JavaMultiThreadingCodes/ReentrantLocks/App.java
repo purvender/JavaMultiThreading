@@ -1,4 +1,4 @@
-package I.ReentrantLocks;
+package ReentrantLocks;
 
 /**
  * the {@link java.util.concurrent.locks.ReentrantLock} class in Java as an

@@ -1,4 +1,4 @@
-package G.Deadlock;
+package Deadlock;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;

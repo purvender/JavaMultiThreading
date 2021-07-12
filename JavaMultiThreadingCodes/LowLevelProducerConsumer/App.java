@@ -1,4 +1,4 @@
-package F.LowLevelProducerConsumer;
+package LowLevelProducerConsumer;
 
 /**
  * How to implement the Producer-Consumer pattern using "low level" techniques;

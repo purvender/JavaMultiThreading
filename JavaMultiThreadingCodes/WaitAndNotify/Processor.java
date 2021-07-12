@@ -1,4 +1,4 @@
-package H.WaitAndNotify;
+package WaitAndNotify;
 
 import java.util.Scanner;
 

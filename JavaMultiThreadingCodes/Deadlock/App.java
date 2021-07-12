@@ -1,4 +1,4 @@
-package G.Deadlock;
+package Deadlock;
 
 /**
  * <a href="https://wikipedia.org/wiki/Deadlock">Deadlock</a>

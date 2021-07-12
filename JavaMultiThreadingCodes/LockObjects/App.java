@@ -1,4 +1,4 @@
-package D.LockObjects;
+package LockObjects;
 
 /**
  * Codes with minor comments are from
