@@ -1,4 +1,4 @@
-package ThreadPools_5;
+package J.ThreadPools;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,6 +46,7 @@ class Worker implements Runnable {
         synchronized (lock1) {
             try {
                 Thread.sleep(1);
+                System.out.println(Thread.currentThread().getName());
             } catch (InterruptedException e) {
                 //do your work here
                 e.printStackTrace();
@@ -58,6 +59,7 @@ class Worker implements Runnable {
         synchronized (lock2) {
             try {
                 Thread.sleep(1);
+                System.out.println(Thread.currentThread().getName());
             } catch (InterruptedException e) {
                 //do your work here
                 e.printStackTrace();
