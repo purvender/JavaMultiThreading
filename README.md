@@ -1,9 +1,5 @@
 # Java Multithreading
-This repository contains all the codes required for the ultimate John Purcell's [Java-MultiThreading](https://caveofprogramming.teachable.com/p/java-multithreading) course. 
-
-We recommend the codes for those interested in understanding the multithreading. The code is written in Java and the topics are numbered by following the lecture content.
-
-
+ 
 ## Java Multithreading Topics:
 
 - 1- Java Multithreading: Starting Threads
@@ -21,8 +17,3 @@ We recommend the codes for those interested in understanding the multithreading.
 - 13- Java Multithreading: Callable and Future
 - 14- Java Multithreading: Interrupting Threads
 
-
-## Contributors
-[Z. Berkay Celik](https://twitter.com/ZBerkayCelik)
-
-[@IOAyman](https://twitter.com/IOAyman)
