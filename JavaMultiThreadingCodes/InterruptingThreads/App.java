@@ -1,4 +1,4 @@
-package InterruptingThreads14;
+package InterruptingThreads;
 
 import java.util.concurrent.*;
 

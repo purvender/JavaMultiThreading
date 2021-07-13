@@ -45,8 +45,8 @@ public class App2 {
         }
 
         executor.shutdown();
-        //this is ont necessary in this case .. but .. good practice :)
-        executor.awaitTermination(1, TimeUnit.DAYS);
+        //this is not necessary in this case .. but .. good practice :)
+        executor.awaitTermination(1, TimeUnit.SECONDS);
 
         for (int i = 0; i < list.size(); i++) {
             //get returned values from call()
